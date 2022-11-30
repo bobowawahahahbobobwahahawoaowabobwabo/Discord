@@ -11,7 +11,16 @@
 
 -- more stuff
 
+-- S/E/X
+
 1: select any trending gif
 2: say s/e/x
 
 To make it extreme = say s/e/x 2 times
+
+-- GNOME
+
+1: select any trending gif
+2: say s/o/gnome
+
+(no extreme mode)
