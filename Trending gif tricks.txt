@@ -1,0 +1,17 @@
+-- RPG
+1: select any trending gif
+2: say s/e/x
+3: say s/w/ord
+
+-- CHESS
+
+1: select any trending gif
+2: say s/e/x
+3: say s/w/ag
+
+-- more stuff
+
+1: select any trending gif
+2: say s/e/x
+
+To make it extreme = say s/e/x 2 times
