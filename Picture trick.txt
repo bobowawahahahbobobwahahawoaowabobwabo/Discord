@@ -11,10 +11,11 @@ Example:
 https://\cdn.discordapp.com/attachments/1033121088982487090/1047594229733535754/WaterMelon-1.jpg
 https://\\cdn.discordapp.com/attachments/1033121088982487090/1047594229733535754/WaterMelon-1.jpg
 https://\\\cdn.discordapp.com/attachments/1033121088982487090/1047594229733535754/WaterMelon-1.jpg
-
+https://\\\\cdn.discordapp.com/attachments/1033121088982487090/1047594229733535754/WaterMelon-1.jpg
 for people that are lazy:
 (just copy link and delete the https)
 
 https://\
 https://\\
 https://\\\
+https://\\\\
